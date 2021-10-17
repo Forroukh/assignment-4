@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "name": "Alan Turing",
+      "age": 42,
+      "image": "./images/alanTuring.jpg",
+      "language": "Turing machine that simulates computer algorithms",
+      "country": "British",
+      "salary": 20000
+    },
+    {
+      "id": 2,
+      "name": "Philip Don Estridge",
+      "age": 48,
+      "image": "./images/philipDonEstridge.jpg",
+      "language": "first IBM Personal Computer",
+      "country": " American",
+      "salary": 30000
+    },
+    {
+      "id": 3,
+      "name": "Niklaus Wirth",
+      "age": 87,
+      "image": "./images/niklausWirth.jpeg",
+      "language": "the creator of several programming languages",
+      "country": " American",
+      "salary": 60000
+    },
+    {
+      "id": 4,
+      "name": "Dennis Ritchie",
+      "age": 70,
+      "image": "./images/dennisRitchie.jpg",
+      "language": "co-founded the B programming language",
+      "country": " American",
+      "salary": 60000
+    },
+    {
+      "id": 5,
+      "name": " Brian Wilson Kernighan ",
+      "age": 69,
+      "image": "./images/brianWilsonKernighan.jpg ",
+      "language": "co-creator and developer of UNIX",
+      "country": "Canadian ",
+      "salary": 70000
+    },
+    {
+      "id": 6,
+      "name": "Kenneth Lane Thompson ",
+      "age": 68,
+      "image": "./images/kennethLaneThompson.jpg ",
+      "language": "co-creator of the B programming language",
+      "country": "American ",
+      "salary": 70000
+    },
+    {
+      "id": 7,
+      "name": "Bjarne Stroustrup ",
+      "age": 61,
+      "image": "./images/bjarneStroustrup.jpg",
+      "language": "the creator of the C++ language",
+      "country": "Danish ",
+      "salary": 80000
+    },
+    {
+      "id": 8,
+      "name": "James Gosling",
+      "age": 56,
+      "image": "./images/jamesGosling.jpg",
+      "language": " the father of Java",
+      "country": "Canadian ",
+      "salary": 90000
+    },
+    {
+      "id": 9,
+      "name": "Guido van Rossum ",
+      "age": 55,
+      "image": "./images/guidovanRossum.jpg",
+      "language": " the author of the popular Python programming language",
+      "country": "Dutch ",
+      "salary": 10000
+    },
+    {
+      "id": 10,
+      "name": "Linus Torvalds",
+      "age": 42,
+      "image": "./images/linusTorvalds.jpg",
+      "language": "creating the Linux kernel",
+      "country": "Finnish ",
+      "salary": 120000
+    },
+    {
+      "id": 11,
+      "name": "Tim Berners-Lee ",
+      "age": 56,
+      "image": "./images/timBerners-Lee.jpg",
+      "language": "famous globally thanks to the invention of the World Wide Web",
+      "country": "British ",
+      "salary": 130000
+    },
+    {
+      "id": 12,
+      "name": "Bill Gates ",
+      "age": 56,
+      "image": "./images/billGates.jpg",
+      "language": "founders and longtime president of Microsoft",
+      "country": "American ",
+      "salary": 1380000
+    }
+  ]

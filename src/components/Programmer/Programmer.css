@@ -1,0 +1,63 @@
+.body{
+    font-weight: 800;
+    text-align: start;
+    padding: 10px;
+    height: 300px;
+    width: 100%;
+    
+
+}
+
+.image{
+    height: 120px;
+    border-radius: 50px;
+    padding: 5px;
+    width: 120px;
+}
+.button{
+    font-size: 20px;
+    color: black;
+    background-color: transparent;
+    height: 50px;
+    width: 150px;
+    padding: 5px;
+    font-weight: 700;
+    border-radius: 10px;
+    border: 3px solid lightgrey;
+}
+
+
+
+.programmer-container {
+display: grid;
+grid-template-columns: 300px 300px 300px;
+gap: 20px;
+text-align: center;
+margin: 10px;
+
+
+
+}
+
+.programmer{
+    background: #f2f2f2;
+    border-radius: 20px;
+    cursor: pointer;
+    
+    padding: 10px;
+    box-shadow: 0 0 20px 8px #d0d0d0;
+    
+}
+
+/* .design {
+   
+    transform: translate(-50%, -50%);
+    height: 400px;
+    width: 600px;
+    background: #f2f2f2;
+    overflow: hidden;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 0 0 20px 8px #d0d0d0;
+  } */
+  
